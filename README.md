@@ -1,21 +1,21 @@
 # Auto-Car-Race-2D
-The project was inspired by a video game named "Road Fighter" 
-It was designed and developed using OPENGL utility Toolkits(C++) as part of my course project. 
-It involves 2D transformations and simple graphics with possible details which is essential for this game. 
-Road fighter game
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSL0lGhAyS5y0WDGKpyxpeM-vET1cJ4np-NOecs_7ibzDw58AAsCX_CNJA0mA
+The project was inspired by a video game named <strong>"Road Fighter" </strong><br/>
+It was designed and developed using OPENGL utility Toolkits(C++) as part of my course project. <br/>
+It involves 2D transformations and simple graphics with possible details which is essential for this game. <br/>
+Road fighter game<br/>
+
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSL0lGhAyS5y0WDGKpyxpeM-vET1cJ4np-NOecs_7ibzDw58AAsCX_CNJA0mA" />
 
 
+Features : <br/>
+Car Scaling<br/>
+Keyborad and mouse controls<br/>
+Night mode and day mode<br/>
+Live score count and much more<br/>
+<br/>
 
-Features : 
-Car Scaling
-Keyborad and mouse controls
-Night mode and day mode
-Live score count and much more
-
-
-Future enhancements: 
-Add hurdles and work on car design. 
-Let Night mode and day mode switch during game. 
-Random speeding of opposite vehicles. 
-Lastly add different vehicles
+Future enhancements: <br/>
+Add hurdles and work on car design. <br/>
+Let Night mode and day mode switch during game. <br/>
+Random speeding of opposite vehicles. <br/>
+Lastly add different vehicles<br/>
